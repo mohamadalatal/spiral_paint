@@ -3,4 +3,4 @@ Spiral Paint" is a thrilling and colorful arcade puzzle game where your goal is 
 
 privacy policy:
 
-https://mohamadalatal.github.io/spiral-paint-privacy-policy/
+[https://mohamadalatal.github.io/spiral-paint-privacy-policy/](https://mohamadalatal.github.io/spiral-paint-privacy-policy/)
